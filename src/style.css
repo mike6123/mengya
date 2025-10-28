@@ -1,0 +1,6 @@
+*{list-style: none;
+    margin: 0;
+}
+router-link {
+  text-decoration: none;
+}
